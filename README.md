@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Spade (@Spadeyache)
-- 👀 I’m interested in computer science and engeneering
-- 🌱 I’m currently a high school student (16years)
+- 👋 Hi, I’m Spadeyache (@Spadeyache)
+- 👀 I’m love robotics and study Computer Engineering
 - My future dream is to do farming in space
 - 📫 How to reach me ...magic.global.n@gmail.com
 
