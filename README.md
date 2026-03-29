@@ -1,3 +1,1 @@
-Computer Engineering @NYU
-
-Love in Robotics
+Computer Engineering @NYU | Love in Robotics
